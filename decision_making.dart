@@ -1,4 +1,4 @@
-void dicisionmaking_Fun() {
+void main(List<String> args) {
   int a = 20;
   int b = 30;
 
@@ -28,7 +28,6 @@ void dicisionmaking_Fun() {
     
   }
 }
-
 void Type_Test_Operators() {}
 
 enum Enum_Example { conecting, disconnected, connected }

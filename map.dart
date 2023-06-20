@@ -1,7 +1,6 @@
 import 'dart:collection';
 
-void maphashmap() {
-  //key value
+void main(List<String> args) {
   var mymap = new Map();
   mymap["fname"] = "reza"; // *! Avoid Duplicate Value
   mymap["lname"] = "hasan";

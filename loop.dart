@@ -1,4 +1,4 @@
-void Loop() {
+void main(List<String> args) {
   for (int i = 0; i <= 3; i++) {
     //for loop
     print("for loop");

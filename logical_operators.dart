@@ -1,4 +1,4 @@
-void logical_operator() {
+void main(List<String> args) {
   int a = 10;
   int b = 20;
 

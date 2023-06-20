@@ -1,4 +1,4 @@
-void type_test_fun() {
+void main(List<String> args) {
   int a = 10;
   int b = 20;
   var c = a is int;
